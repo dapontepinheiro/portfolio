@@ -113,7 +113,7 @@ section {
 
 .conteudo__info__texto__hab {
     display: flex;
-    gap: 1rem;
+    gap: 1.5rem;
 }
 
 .hab__cont {
